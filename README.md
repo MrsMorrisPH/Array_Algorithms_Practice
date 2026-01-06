@@ -1,4 +1,4 @@
-# Unit 6 - Understanding Arrays in Java
+# Understanding Arrays in Java
 
 ## Overview
 In this unit, students will learn about using arrays in Java, a fundamental concept for storing and manipulating collections of data. The focus will be on declaring arrays, accessing elements, traversing arrays with loops, and handling common array-related operations. This unit will help students understand how to work with sequential data structures, manage memory efficiently, and avoid common pitfalls associated with arrays.
@@ -32,30 +32,30 @@ Students are required to complete the `Unit6.java` class by implementing all the
 
 ## JUnit Tests Description and Points
 
-1. **Test Sum of Array (20 points)**  
+1. **Test Sum of Array**  
    Verifies that the method correctly calculates the sum of all elements in an array.
 
-2. **Test Maximum Element (20 points)**  
+2. **Test Maximum Element**  
    Ensures the method finds the maximum element in an array and handles edge cases such as empty arrays.
 
-3. **Test Reverse Array (15 points)**  
+3. **Test Reverse Array**  
    Confirms that the method returns a new array with the elements in reverse order.
 
-4. **Test Array Sorting Check (15 points)**  
+4. **Test Array Sorting Check**  
    Verifies that the method correctly identifies whether an array is sorted in ascending order.
 
-5. **Test Element Occurrences (30 points)**  
+5. **Test Element Occurrences**  
    Ensures that the method accurately counts how many times a given element appears in an array.
 
 ## Getting Started
 1. Clone the repository containing the Unit 6 project.
-2. Open the project in your preferred IDE (such as IntelliJ IDEA or Eclipse).
+2. Open the project in your preferred IDE (CodeSpaces or VS Code).
 3. Navigate to `Unit6.java` and implement the required methods and attributes.
 4. Run the JUnit tests in `Unit6Test.java` to verify your implementations.
 5. Ensure all tests pass before submitting your code.
 
 ## Submission
-Submit your completed `Unit6.java` file through the course's designated submission platform by the due date. Ensure that all tests pass and your code adheres to the style guidelines provided in class.
+Submit your completed `Unit6.java` file through GitHub Classroom by the due date. Ensure that all tests pass and your code adheres to the style guidelines provided in class.
 
 ## Resources
 - [Java Documentation](https://docs.oracle.com/javase/8/docs/api/)
@@ -63,10 +63,11 @@ Submit your completed `Unit6.java` file through the course's designated submissi
 - [Java Arrays](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
 
 ## Support
-If you encounter any issues or have questions about the assignment, please reach out during office hours or post in the course discussion forum.
-
-For additional assistance, contact: **Kevin** at [kevin@csplusplus.com](mailto:kevin@csplusplus.com).
+If you encounter any issues or have questions about the assignment, please reach out during office hours.
 
 ---
 
 **Unit 6 - Understanding Arrays in Java** is part of the AP Computer Science A course, aimed at building a strong foundation in data structures and array manipulation.
+
+## Credit
+This repo template was modified from [CS-Plus-Plus] (https://github.com/cs-plus-plus)
