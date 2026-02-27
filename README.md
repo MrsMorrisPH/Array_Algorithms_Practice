@@ -48,7 +48,7 @@ Students are required to complete the `Unit6.java` class by implementing all the
    Ensures that the method accurately counts how many times a given element appears in an array.
 
 ## Getting Started
-1. Clone the repository containing the Unit 6 project.
+1. Open the github classroom assignment.
 2. Open the project in your preferred IDE (CodeSpaces or VS Code).
 3. Navigate to `Unit6.java` and implement the required methods and attributes.
 4. Run the JUnit tests in `Unit6Test.java` to verify your implementations.
@@ -63,7 +63,7 @@ Submit your completed `Unit6.java` file through GitHub Classroom by the due date
 - [Java Arrays](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
 
 ## Support
-If you encounter any issues or have questions about the assignment, please reach out during office hours.
+If you encounter any issues or have questions about the assignment, please reach out during tutoring.
 
 ---
 
